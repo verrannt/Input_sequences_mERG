@@ -1,5 +1,7 @@
 # Input sequences mERG
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This python script generates a sequence (of custom length) of hexagonic inputs that can be used in [multifocal electroretinography](https://en.wikipedia.org/wiki/Electroretinography) studies or computational modeling of the human eye.
 
 ## Usage
