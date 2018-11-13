@@ -6,7 +6,7 @@ This python script generates a sequence (of custom length) of hexagonic inputs t
 Navigate to the directory the python script was put into. Then do:
 
 ```python
-python gen_hex_input.py *mode* *radius* *size_x* *size_y* *output_directory* *output_size*
+python generate.py *mode* *radius* *size_x* *size_y* *output_directory* *output_size*
 ```
 - *mode* is the image type (e.g. RGB or 1 for 1-bit black-white, check [Pillow Documentation](https://pillow.readthedocs.io/en/5.3.x/handbook/concepts.html#modes) for more info)
 - *radius* is the radius for each hexagon (all have the same)
