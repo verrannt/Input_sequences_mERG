@@ -1,6 +1,6 @@
 # Input sequences mERG
 
-This python script generates a sequence (of custom length) of hexagonic inputs that can be used in multifocal electroretinography studies or computational modeling of the human eye.
+This python script generates a sequence (of custom length) of hexagonic inputs that can be used in [multifocal electroretinography](https://en.wikipedia.org/wiki/Electroretinography) studies or computational modeling of the human eye.
 
 ## Usage
 Navigate to the directory the python script was put into. Then do:
