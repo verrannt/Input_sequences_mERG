@@ -10,7 +10,7 @@
 #   - *radius* is the radius for each hexagon (all have the same)
 #   - *size_x* and *size_y* the dimensions of the image
 #   - *output_directory* is the directory the images will be saved in
-#   - *output_size* is the name of the output image
+#   - *output_size* is the amount of images to generate
 # NOTE
 # Make sure the image size is big enough so that all hexagons can be seen
 # -----------------------------------------------------------------------------
