@@ -14,7 +14,7 @@ python generate.py *mode* *radius* *size_x* *size_y* *output_directory* *output_
 - *radius* is the radius for each hexagon (all have the same)
 - *size_x* and *size_y* the dimensions of the image
 - *output_directory* is the directory the images will be saved in
-- *output_size* is the name of the output image
+- *output_size* is the amount of images to generate
 
 ## Showcase of images
 ##### This image is colored to better depict the rings of eccentricity
